@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### Contact me
+
+- [Zhihu](https://www.zhihu.com/people/binli)
+- <lbin@outlook.com>
+
+![lbin's github stats](https://github-readme-stats-xi-nine.vercel.app/api?username=lbin&show_icons=true&theme=default&count_private=true)
